@@ -1,0 +1,16 @@
+{
+  "id": "wanderings-call",
+  "title": "Wandering's Call",
+  "description": "A game module for playing Wandering's Call",
+  "authors": [
+    {
+      "name": "Sonne"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "scripts": ["scripts/main.js"]
+}
